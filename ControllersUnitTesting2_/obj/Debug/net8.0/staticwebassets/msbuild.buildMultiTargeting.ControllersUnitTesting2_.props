@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControllersUnitTesting2_.props" />
+</Project>

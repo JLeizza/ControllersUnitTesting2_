@@ -428,23 +428,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zalen\\.nuget\\packages\\": {},
+    "C:\\Users\\jleizza\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zalen\\source\\repos\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\ControllersUnitTesting2_.csproj",
+      "projectUniqueName": "C:\\Users\\jleizza\\Desktop\\Julen\\Academy\\Repos\\ControllersUnitTesting\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\ControllersUnitTesting2_.csproj",
       "projectName": "ControllersUnitTesting2_",
-      "projectPath": "C:\\Users\\Zalen\\source\\repos\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\ControllersUnitTesting2_.csproj",
-      "packagesPath": "C:\\Users\\Zalen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zalen\\source\\repos\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\obj\\",
+      "projectPath": "C:\\Users\\jleizza\\Desktop\\Julen\\Academy\\Repos\\ControllersUnitTesting\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\ControllersUnitTesting2_.csproj",
+      "packagesPath": "C:\\Users\\jleizza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jleizza\\Desktop\\Julen\\Academy\\Repos\\ControllersUnitTesting\\ControllersUnitTesting2_\\ControllersUnitTesting2_\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Zalen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jleizza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -12,9 +12,9 @@ namespace ControllersUnitTesting2_.Controllers
 
         public ClientController(IClientService clientService)
         {
-            clientService = _clientService;
+            _clientService = clientService;
         }
-        public IActionResult Get() => Ok(_clientService.GetAll());
+        private IActionResult Get() => Ok(_clientService.GetAll());
 
 
         [HttpGet]
