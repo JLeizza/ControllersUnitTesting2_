@@ -5,7 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControllersUnitTesting2_", "ControllersUnitTesting2_\ControllersUnitTesting2_.csproj", "{6245DA9D-2FE1-4CAF-AAE7-719ED566228D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllersUnitTesting_Tests", "ControllersUnitTesting_Tests\ControllersUnitTesting_Tests.csproj", "{CE4940BB-7329-4202-9329-DD62DA062BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControllersUnitTesting_Tests", "ControllersUnitTesting_Tests\ControllersUnitTesting_Tests.csproj", "{CE4940BB-7329-4202-9329-DD62DA062BB3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6245DA9D-2FE1-4CAF-AAE7-719ED566228D} = {6245DA9D-2FE1-4CAF-AAE7-719ED566228D}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
